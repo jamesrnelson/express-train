@@ -1,0 +1,29 @@
+{
+  "name": "express-train",
+  "version": "1.0.0",
+  "description": "A place for train info",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesrnelson/express-train.git"
+  },
+  "keywords": [
+    "express",
+    "mocha"
+  ],
+  "author": "jamesrnelson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamesrnelson/express-train/issues"
+  },
+  "homepage": "https://github.com/jamesrnelson/express-train#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
